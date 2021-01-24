@@ -1,4 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+Ejecutar los siguientes comandos para el proyecto:
+
+1. Ubicarse en el proyecto
+2.Ejecutar el comando: composer update
+3. Luego cambiar el nombre .env-example por .ev
+4. Ejecutar el comando php artisan key:generate
+5. php artisan migrate (BD moto Mysql Nombre BD: laravel)
+
+
+
+
+p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
